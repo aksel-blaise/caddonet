@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "This interactive network is a work in progress, and revisions will occur throughout its\u0027 development.",
-    "intro": "\u003cp\u003eRobert Z. Selden, Jr.\u003c/p\u003e\n\u003cp\u003e--\u003c/p\u003e\n\u003cp\u003eCitation data for indexed publications in Caddo archaeology were harvested from Scopus. This interactive graph includes 8.16% of all nodes (n\u003d486) and 25.83% of all edges (n\u003d2173) visualised in the network. Nodes are sized by OutDegree, meaning that those publications that cite more works appear larger.\u003c/p\u003e\n\u003cp\u003e-----\u003c/p\u003e",
+    "intro": "\u003cp\u003eRobert Z. Selden, Jr.\u003c/p\u003e\n\u003cp\u003e--\u003c/p\u003e\n\u003cp\u003eCitation data for indexed publications in Caddo archaeology were harvested from Scopus. This interactive graph includes all nodes (n\u003d1005) and edges (n\u003d1434) used in the analysis. Nodes are sized by OutDegree, meaning that those publications that cite more works appear larger.\u003c/p\u003e\n\u003cp\u003e-----\u003c/p\u003e",
     "title": "Indexed Publications in Caddo Archaeology"
   },
   "legend": {
