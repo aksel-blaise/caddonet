@@ -1,16 +1,9 @@
-﻿Scopus-22-Analyze-Subject
-
-"Your query : (TITLE-ABS-KEY(caddo AND archaeology OR archeology) AND ( LIMIT-TO ( PUBYEAR,2019) OR LIMIT-TO ( PUBYEAR,2018) OR LIMIT-TO ( PUBYEAR,2016) OR LIMIT-TO ( PUBYEAR,2014) OR LIMIT-TO ( PUBYEAR,2013) OR LIMIT-TO ( PUBYEAR,2012) OR LIMIT-TO ( PUBYEAR,2011) OR LIMIT-TO ( PUBYEAR,2010) OR LIMIT-TO ( PUBYEAR,2009) OR LIMIT-TO ( PUBYEAR,2008) OR LIMIT-TO ( PUBYEAR,2007) OR LIMIT-TO ( PUBYEAR,2004) )  AND ( EXCLUDE ( DOCTYPE,""ch"" ) )  AND ( EXCLUDE ( DOCTYPE,""bk"" ) )  AND ( EXCLUDE ( DOCTYPE,""ed"" ) ) )"
-
-
-Number of results : 22
-
-"SUBJECT AREA",
-"Agricultural and Biological Sciences","1"
-"Arts and Humanities","7"
-"Chemistry","1"
-"Computer Science","2"
-"Earth and Planetary Sciences","1"
-"Economics, Econometrics and Finance","1"
-"Materials Science","1"
-"Social Sciences","19"
+subj,num
+Agricultural and Biological Sciences,1
+Arts and Humanities,7
+Chemistry,1
+Computer Science,2
+Earth and Planetary Sciences,1
+"Economics, Econometrics and Finance",1
+Materials Science,1
+Social Sciences,19
