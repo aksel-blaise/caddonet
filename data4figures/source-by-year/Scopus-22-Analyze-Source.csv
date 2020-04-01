@@ -1,0 +1,16 @@
+﻿Scopus-22-Analyze-Source
+
+"Your query : (TITLE-ABS-KEY(caddo AND archaeology OR archeology) AND ( LIMIT-TO ( PUBYEAR,2019) OR LIMIT-TO ( PUBYEAR,2018) OR LIMIT-TO ( PUBYEAR,2016) OR LIMIT-TO ( PUBYEAR,2014) OR LIMIT-TO ( PUBYEAR,2013) OR LIMIT-TO ( PUBYEAR,2012) OR LIMIT-TO ( PUBYEAR,2011) OR LIMIT-TO ( PUBYEAR,2010) OR LIMIT-TO ( PUBYEAR,2009) OR LIMIT-TO ( PUBYEAR,2008) OR LIMIT-TO ( PUBYEAR,2007) OR LIMIT-TO ( PUBYEAR,2004) )  AND ( EXCLUDE ( DOCTYPE,""ch"" ) )  AND ( EXCLUDE ( DOCTYPE,""bk"" ) )  AND ( EXCLUDE ( DOCTYPE,""ed"" ) ) )"
+
+
+Number of results : 22
+
+"SOURCE TITLE",
+"Southeastern Archaeology","12"
+"American Antiquity","4"
+"Castanea","1"
+"Digital Applications In Archaeology And Cultural Heritage","1"
+"Journal Of Archaeological Science","1"
+"Journal Of Cultural Heritage","1"
+"Organic Geochemistry","1"
+"Plains Anthropologist","1"
