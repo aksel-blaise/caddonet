@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "images/sfasu.png",
+    "link": "http://sfasu.edu/",
+    "text": "Robert Z. Selden, Jr."
+  },
+  "text": {
+    "more": "This interactive network is a work in progress, and revisions will occur throughout its\u0027 development.",
+    "intro": "\u003cp\u003eRobert Z. Selden, Jr.\u003c/p\u003e\n\u003cp\u003e--\u003c/p\u003e\n\u003cp\u003eCitation data for indexed publications in Caddo archaeology were harvested from Scopus. This interactive graph includes 8.16% of all nodes (n\u003d486) and 25.83% of all edges (n\u003d2173) visualised in the network. Nodes are sized by OutDegree, meaning that those publications that cite more works appear larger.\u003c/p\u003e\n\u003cp\u003e-----\u003c/p\u003e",
+    "title": "Indexed Publications in Caddo Archaeology"
+  },
+  "legend": {
+    "edgeLabel": "Incoming/Outgoing Citation",
+    "colorLabel": "Publications (Maroon)/Citations (Blue)",
+    "nodeLabel": "Publication/Cited Ref"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
